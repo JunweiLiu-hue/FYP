@@ -19,7 +19,7 @@ const LandingPage = () => {
                 follows an MVC architecture and Agile methodology to ensure an engaging gaming experience.
             </p>
             <p><strong>Video Demo:</strong> <a href="https://youtu.be/3ISvSYh8XJI" className="landing-link">https://youtu.be/3ISvSYh8XJI</a></p>
-            <p><strong>GitHub Link:</strong> <a href="https://github.com/JunweiLiu-hue/finalproject.git" className="landing-link">https://github.com/JunweiLiu-hue/finalproject.git</a></p>
+            <p><strong>GitHub Link:</strong> <a href="https://github.com/JunweiLiu-hue/FYP.git" className="landing-link">https://github.com/JunweiLiu-hue/FYP.git</a></p>
         </div>
     );
 };
